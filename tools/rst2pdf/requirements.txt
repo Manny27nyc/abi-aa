@@ -17,3 +17,4 @@ git+git://github.com/rst2pdf/rst2pdf@d9bf8cd737c11cfc572c936173228c1103344fdf
 rstcheck
 matplotlib
 svglib
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
